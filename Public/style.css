@@ -1,3 +1,10 @@
+html {
+  background: url('http://bit.ly/1Tvjp58') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
 .profile {
   background: lightgray;
   padding: 10px;
@@ -13,10 +20,3 @@
   height: 100px;
   border-radius: 50px;
 }
-html {
-  background: url('https://www.flickr.com/photos/cubagallery/15615336648/in/photolist-pMSFyd-oB8ZPw-dWS6DT-nwS7Vn-esbT85-foLD3Q-ecevC8-edwix2-dSceGF-dCghzB-n2oGxj-pMFZ9n-iqoDNf-iBXaK8-cdtdm9-cjBo4S-qTSF27-hnvhBS-dRNzkr-6Zb1wn-bVfRSx-8tF7BU-hnwqti-6zvGGf-pVCww5-dqh1ri-rRxzYq-nyz9FG-pkWjYb-bniY7P-f4dzJo-fAeh7U-rcXCTd-8tF7Y3-bs7Gox-ebzHYY-r2QzC4-fnr19F-hnuNnp-buw3HQ-ehtKqM-dQiASK-bpQM4p-pnNSDC-qoLYf8-qSh8TQ-eSCNgU-bs7NH4-5XW2wk-bpQ3ZK') no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
- }
